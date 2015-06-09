@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "require": {
         "kartik-v/yii2-krajee-base": "*",
-        "michelf/php-markdown": "*",
+        "michelf/php-markdown": "*"
     },
     "autoload": {
         "psr-4": {
